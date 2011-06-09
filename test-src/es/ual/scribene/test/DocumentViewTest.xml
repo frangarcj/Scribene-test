@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+
+<suite name="DocumentView Tests" verbose="2" parallel="false">
+   <test name="DocumentView Test">
+     <classes>
+       <class name="es.ual.scribene.test.DocumentViewTest"/>       
+     </classes>
+   </test>	
+</suite>

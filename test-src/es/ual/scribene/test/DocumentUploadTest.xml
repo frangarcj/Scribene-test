@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+
+<suite name="DocumentUpload Tests" verbose="2" parallel="false">
+   <test name="DocumentUpload Test">
+     <classes>
+       <class name="es.ual.scribene.test.DocumentUploadTest"/>       
+     </classes>
+   </test>	
+</suite>
